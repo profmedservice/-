@@ -320,3 +320,12 @@ unparsed.to_csv("нераспарсенные_строки.csv", index=False, en
 Нужны ли дополнительные проверки/логи по «неполным парсам»?
 В каком формате (и куда) будет дальше использоваться результат?
 Это поможет точно выстроить финальную систему парсинга в соответствии с вашими задачами.
+## Running tests
+
+To run the unit tests with pytest, execute:
+
+```bash
+pytest
+```
+
+The tests are located in the `tests/` directory.
