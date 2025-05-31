@@ -1,0 +1,6 @@
+Штрихкод,Название лекарства,Цена,Производитель,НДС,Фонд,Тип цены,Скидка применяется?,Процент скидки,Наценка (%)
+1001,BETASERC 16 MG 30 TB.,10,ACME,0,0,retail,No,0,0
+1002,BETASERC 24 MG 100 TB.,20,ACME,0,0,retail,No,0,0
+1003,BRUFEN 400 MG 20 FTB.,30,ACME,0,0,retail,No,0,0
+1004,DUPHALAC 667 MG 300 ML SRP*,40,ACME,0,0,retail,No,0,0
+1005,ANSIOX 0.5 MG 30 TB **,50,ACME,0,0,retail,No,0,0
